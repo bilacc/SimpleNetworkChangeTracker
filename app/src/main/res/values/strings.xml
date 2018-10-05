@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NetworkChangeTracker</string>
+    <string name="internet_down">Internet connection went down!</string>
+</resources>
